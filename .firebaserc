@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "pensionviable": {
+      "hosting": {
+        "AngularForm": [
+          "pensionviable"
+        ]
+      }
+    }
+  }
+}
